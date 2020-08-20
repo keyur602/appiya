@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"footer",
+				"footer_text"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"bo",
+				"border-right\tproperty"
+			],
+			[
+				"w-",
+				"w-100"
+			],
+			[
+				"s",
+				"size\tproperty"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"conta",
+				"Contact"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"ju",
+				"justify-content-center"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"iph",
+				"iphone2"
+			],
+			[
+				"dow",
+				"Download_App"
+			],
+			[
+				"pri",
+				"Price"
+			],
+			[
+				"ro",
+				"rotateY()\ttransform"
+			],
+			[
+				"tr",
+				"translate3d()\ttransform"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"j",
+				"justify-content-center"
+			],
+			[
+				"w",
+				"w-25"
+			],
+			[
+				"t",
+				"translateY()\ttransform"
+			],
+			[
+				"transfo",
+				"transform\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"justify",
+				"justify-content-between"
+			],
+			[
+				"jy",
+				"justify-content-between"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"magi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"boo",
+				"bottom\tproperty"
+			],
+			[
+				"user_",
+				"user_drop_box"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"sign",
+				"signup_box"
+			],
+			[
+				"en",
+				"Enter"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"a",
+				"align-item"
+			],
+			[
+				"bann",
+				"banner"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"trini",
+				"transition\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"btn",
+				"btn_left"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"co",
+				"contact"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"fO",
+				"font-weight\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"con",
+				"container"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "project_1/index.html",
+			"settings":
+			{
+				"buffer_size": 16835,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "project_1/css/stayle.css",
+			"settings":
+			{
+				"buffer_size": 14687,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/dom/0BD4-1998/Appiya/project_1",
+		"/media/dom/0BD4-1998/Appiya/project_1/css"
+	],
+	"file_history":
+	[
+		"/media/dom/Data/Study/keyur/Appiya/project_1/css/stayle.css",
+		"/media/dom/Data/Study/keyur/Appiya/project_1/index.html",
+		"/var/www/html/appnext/login.html",
+		"/var/www/html/appnext/css/Style.css",
+		"/var/www/html/appnext/signup.html",
+		"/var/www/html/appnext/index.html",
+		"/var/www/html/appnext/Signup.html",
+		"/var/www/html/appnext/Login.html",
+		"/var/www/html/appnext/Main.html",
+		"/media/dom/Data/Study/Nirav/WT/WT-Project/Login.html",
+		"/media/dom/Data/Study/Nirav/WT/WT-Project/css/Style.css",
+		"/media/dom/Data/Study/Nirav/WT/WT-Project/Main.html",
+		"/media/dom/Data/Study/Nirav/WT/WT-Project/Signup.html",
+		"/media/dom/Data/Study/WT-Project/css/Style.css",
+		"/media/dom/Data/Study/WT-Project/Main.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"></",
+			"()=========*/",
+			"  \n",
+			"FEATURES"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "project_1/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16835,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16767,
+								16767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7064.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "project_1/css/stayle.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14682,
+								14682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13235.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "preoject_1.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
